@@ -76,18 +76,7 @@
                 android:text="C" />
 
             <com.google.android.material.button.MaterialButton
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                app:cornerRadius="38dp"
-                style="@style/Widget.MaterialComponents.ExtendedFloatingActionButton"
-                android:textSize="32dp"
-                android:textColor="@color/black"
-                android:layout_margin="8dp"
-                android:backgroundTint="#a5a5a5"
-                android:id="@+id/button_close_bracket"
-                android:text=")" />
-            <com.google.android.material.button.MaterialButton
-                android:layout_width="80dp"
+                android:layout_width="177dp"
                 android:layout_height="80dp"
                 app:cornerRadius="38dp"
                 style="@style/Widget.MaterialComponents.ExtendedFloatingActionButton"
